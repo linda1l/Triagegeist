@@ -172,6 +172,6 @@ Members:
 
 ## License and Data Use
 
-The code and project materials in this repository may be shared for competition review and reproducibility.
+The code and project materials in this repository are provided for competition review and reproducibility.
 
-The original Triagegeist competition data is not redistributed here. Users should access the data through the official Kaggle competition page and comply with the competition rules.
+The original Triagegeist competition data is not redistributed in this repository. Users should access the data through the official Kaggle competition page and follow the competition rules.
