@@ -167,7 +167,7 @@ Team: machine now learning
 Members:
 
 * jwlindazhang
-* Jojojo123
+* jojojo1110
 * soda444
 
 ## License and Data Use
