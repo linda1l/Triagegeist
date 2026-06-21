@@ -166,7 +166,7 @@ Team: machine now learning
 
 Members:
 
-* Linda Zhang
+* jwlindazhang
 * Jojojo123
 * soda444
 
